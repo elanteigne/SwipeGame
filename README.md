@@ -26,10 +26,8 @@ Ideas:
 	-level related to how many cards sorted
 
 
-Objects Brainstorm:			|	Class Name:						|
-							|	-parameter						|
-							|		Subclass Name:				|
-							|			->subclass parameter	|
+Objects Brainstorm:			
+
 	Card:
 	-xint
 	-yint
