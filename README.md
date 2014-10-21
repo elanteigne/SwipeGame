@@ -8,17 +8,17 @@ Ideas:
     Time per card
         -less time per level
           
-    Score
+    Score:
         -time left * level
           
-	Level differences
+	Level differences:
 		more piles
 		-piles change location
 		-colours
 		-words in colour
 		-patterns
           
-	Powers (Special Card?)(Gold border on Special Card?)(Must get special card correct to get the power?)
+	Powers: (Special Card?)(Gold border on Special Card?)(Must get special card correct to get the power?)
 		-2x	score
 		-extra life
 		-slow down time
